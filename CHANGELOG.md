@@ -2,19 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [2.9.2](https://github.com/lokalise/i18n-ally/compare/v2.9.1...v2.9.2) (2023-07-07)
-
+## [2.10.0](https://github.com/lokalise/i18n-ally/compare/v2.9.1...v2.10.0) (2023-07-11)
 
 ### ⚡ Features
 
-* add prefix suffix config of args ([f42cc66](https://github.com/lokalise/i18n-ally/commit/f42cc6623c0c16c61d476013bb557a3402149939))
-* modify react-i18next templates ([e04ea4d](https://github.com/lokalise/i18n-ally/commit/e04ea4de45b43225f3eac9afb1560fea2f46f6d4))
-
+* Add i18next-shopify framework ([#949](https://github.com/lokalise/i18n-ally/pull/949), [#970](https://github.com/lokalise/i18n-ally/pull/970))
+* Add extraction support to react-i18next framework ([#951](https://github.com/lokalise/i18n-ally/pull/951))
+* Display first available pluralization string if parent key of nested pluralization keys ([#950](https://github.com/lokalise/i18n-ally/pull/950))
+* Support "Go to Definition" for nested pluralization keys ([#954](https://github.com/lokalise/i18n-ally/pull/954))
 
 ### 🐞 Bug Fixes
 
 * implement scopes/namespaces for Transloco ([#684](https://github.com/lokalise/i18n-ally/issues/684)) ([43df97d](https://github.com/lokalise/i18n-ally/commit/43df97db80073230e528b7bf63610c903d886df8))
-* remove the "," in the replacer ([f651e1d](https://github.com/lokalise/i18n-ally/commit/f651e1d15d8443493179684bcf99f1763d454cc6))
+* Fixes usage report for non-missing derived keys ([#957](https://github.com/lokalise/i18n-ally/pull/957))
+* Fixes Current File Panel report of not found keys ([Shopify/i18n-ally#7](https://github.com/Shopify/i18n-ally/pull/7))
+
 
 ### [2.9.1](https://github.com/lokalise/i18n-ally/compare/v2.9.0...v2.9.1) (2023-05-15)
 
