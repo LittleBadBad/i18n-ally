@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.1](https://github.com/lokalise/i18n-ally/compare/v2.10.0...v2.10.1) (2023-07-14)
+
+
+### ⚡ Features
+
+* 与最新官方仓库合并 ([83f156c](https://github.com/lokalise/i18n-ally/commit/83f156cc8a23ceccde5f62f1d7e3317987367eee))
+
+### [2.9.2](https://github.com/lokalise/i18n-ally/compare/v2.9.1...v2.9.2) (2023-07-07)
+
+
+### ⚡ Features
+
+* add prefix suffix config of args ([f42cc66](https://github.com/lokalise/i18n-ally/commit/f42cc6623c0c16c61d476013bb557a3402149939))
+* modify react-i18next templates ([e04ea4d](https://github.com/lokalise/i18n-ally/commit/e04ea4de45b43225f3eac9afb1560fea2f46f6d4))
+
+
+### 🐞 Bug Fixes
+
+* remove the "," in the replacer ([f651e1d](https://github.com/lokalise/i18n-ally/commit/f651e1d15d8443493179684bcf99f1763d454cc6))
+
 ## [2.10.0](https://github.com/lokalise/i18n-ally/compare/v2.9.1...v2.10.0) (2023-07-11)
 
 ### ⚡ Features
