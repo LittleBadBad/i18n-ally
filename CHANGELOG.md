@@ -2,6 +2,41 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.12.1](https://github.com/lokalise/i18n-ally/compare/v2.11.1...v2.12.1) (2023-09-26)
+
+
+### 🐞 Bug Fixes
+
+* fix unit test ([0a12273](https://github.com/lokalise/i18n-ally/commit/0a12273f202fa1184eb3ed74b2d2ec54859b3e6c))
+* next-intl support multilines key detection ([#1011](https://github.com/lokalise/i18n-ally/issues/1011)) ([#1014](https://github.com/lokalise/i18n-ally/issues/1014)) ([289af25](https://github.com/lokalise/i18n-ally/commit/289af25ba9c890929841e8fd3f6d48ce08cef47a))
+* Svelte regex wrong first capturing group ([#1003](https://github.com/lokalise/i18n-ally/issues/1003)) ([#1013](https://github.com/lokalise/i18n-ally/issues/1013)) ([a29bee8](https://github.com/lokalise/i18n-ally/commit/a29bee8ec0c49435add017f1766886514de3339b))
+
+
+### ⚡ Features
+
+* add `next-international` framework ([#1007](https://github.com/lokalise/i18n-ally/issues/1007)) ([378dfdd](https://github.com/lokalise/i18n-ally/commit/378dfdd7cc2015ddc9aa18189949bee6c671cf94))
+* Support `getTranslator` API from `next-intl` ([#1017](https://github.com/lokalise/i18n-ally/issues/1017)) ([a66de32](https://github.com/lokalise/i18n-ally/commit/a66de322d97e1b40542f09fa99cbe7a73fbe4a28))
+
+### [2.10.1](https://github.com/lokalise/i18n-ally/compare/v2.10.0...v2.10.1) (2023-07-14)
+
+
+### ⚡ Features
+
+* 与最新官方仓库合并 ([83f156c](https://github.com/lokalise/i18n-ally/commit/83f156cc8a23ceccde5f62f1d7e3317987367eee))
+
+### [2.9.2](https://github.com/lokalise/i18n-ally/compare/v2.9.1...v2.9.2) (2023-07-07)
+
+
+### ⚡ Features
+
+* add prefix suffix config of args ([f42cc66](https://github.com/lokalise/i18n-ally/commit/f42cc6623c0c16c61d476013bb557a3402149939))
+* modify react-i18next templates ([e04ea4d](https://github.com/lokalise/i18n-ally/commit/e04ea4de45b43225f3eac9afb1560fea2f46f6d4))
+
+
+### 🐞 Bug Fixes
+
+* remove the "," in the replacer ([f651e1d](https://github.com/lokalise/i18n-ally/commit/f651e1d15d8443493179684bcf99f1763d454cc6))
+
 ## [2.12.0](https://github.com/lokalise/i18n-ally/compare/v2.11.1...v2.12.0) (2023-09-23)
 
 ### ⚡ Features
